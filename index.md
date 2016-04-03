@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: article
+image: 
+    feature: awetlabpglo.jpg
 permalink: /
-title: "Latest Posts"
+title: "The Wetlab at San Diego"
 ---
 
 <div class="tiles">
