@@ -10,4 +10,4 @@ image:
   thumb:
 ads: false
 ---
-
+Post location info here.

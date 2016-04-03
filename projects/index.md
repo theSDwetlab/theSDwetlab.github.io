@@ -10,4 +10,4 @@ image:
   thumb:
 ads: false
 ---
-
+Pages for each project can be created and posted here.

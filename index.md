@@ -11,3 +11,5 @@ title: "The Wetlab at San Diego"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+Brief description here.

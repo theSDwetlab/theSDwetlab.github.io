@@ -10,4 +10,4 @@ image:
   thumb:
 ads: false
 ---
-
+Events, calendar, and workshops may be posted to this page.
