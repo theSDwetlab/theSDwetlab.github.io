@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Home
-  url: /
-  excerpt:
-  image: 
-
 - title: About
   url: /about/
   excerpt:
@@ -22,6 +17,11 @@
 
 - title: Location
   url: /location/
+  excerpt:
+  image: 
+
+- title: Donate
+  url: /donate/
   excerpt:
   image: 
 
