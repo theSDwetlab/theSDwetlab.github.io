@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: The Wetlab
+title: The Wet Lab
 description: "San Diego's Hackerspace for DIYBio."
-logo:  #120x120 px default image used for Twitter summary card
-teaser:  #400x250 px default teaser image used in image archive grid
+logo:  logo1.png #120x120 px default image used for Twitter summary card
+teaser:  logo1.png #400x250 px default teaser image used in image archive grid
 locale: en
 url:
 
