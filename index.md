@@ -7,6 +7,4 @@ title:
 ---
 The Wet Lab is San Diego's premier hackerspace for biotech, currently located within the Fab Lab at 847 14th St, San Diego, CA 92101.  
 
-The Wet Lab is proudly sponsored by,
-
-![bbl]({{ site.url }}/images/bbl.jpg)
+[//]: # ![bbl]({{ site.url }}/images/bbl.jpg)

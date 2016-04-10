@@ -28,6 +28,9 @@
 <loc>/projects/</loc>
 </url>
 <url>
+<loc>/join/</loc>
+</url>
+<url>
 <loc>/location/</loc>
 </url>
 <url>
@@ -38,9 +41,6 @@
 </url>
 <url>
 <loc>/schedule/</loc>
-</url>
-<url>
-<loc>/donate/</loc>
 </url>
 <url>
 <loc>/</loc>
