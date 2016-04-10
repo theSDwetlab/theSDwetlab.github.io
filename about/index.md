@@ -19,3 +19,5 @@ Our lab is located within Fab Lab (immediately next to CrossFit) at 847 14th St,
 The La Jolla Riford Library where lectures and instructional lab activities are held is at 7555 Draper Ave, San Diego, CA 92037. 
 
 ![library]({{ site.url }}/images/staticmap_lib.png)
+
+[//]: # http://www.mapseasy.com/google-maps-to-image-generator.php 
