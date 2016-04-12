@@ -2,7 +2,7 @@
 layout: media
 title: Biosensors
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

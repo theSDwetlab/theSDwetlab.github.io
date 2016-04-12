@@ -2,7 +2,7 @@
 layout: media
 title: Genetic Engineering of E. Coli and Algae
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

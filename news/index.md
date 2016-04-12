@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Projects
-date: 2016-04-03T02:56:30-07:00
+title: 
+date: 2016-04-12T00:00:00-07:00
 modified:
 excerpt:
 image:
@@ -9,9 +9,10 @@ image:
   teaser:
   thumb:
 ads: false
+permalink: /
 ---
 <div class="tiles">
-{% for post in site.categories.projects %}
+{% for post in site.categories.news %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

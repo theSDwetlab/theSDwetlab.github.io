@@ -2,7 +2,7 @@
 layout: media
 title: Slime-mold and Flatworm Neuroscience
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

@@ -2,7 +2,7 @@
 layout: media
 title: Sequestration of Heavy Metals Using Biocalcification
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

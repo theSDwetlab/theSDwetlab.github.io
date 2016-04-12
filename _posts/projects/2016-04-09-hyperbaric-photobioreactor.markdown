@@ -2,7 +2,7 @@
 layout: media
 title: Hyperbaric Photobioreactor
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

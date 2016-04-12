@@ -2,7 +2,7 @@
 layout: media
 title: Immobilized Algae in Hydrogel for Biotechechnology
 modified:
-categories: 
+categories: projects
 excerpt:
 tags: []
 image:

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/news/citizen-science-day/</loc>
+<lastmod>2016-04-12T00:02:50-07:00</lastmod>
+</url>
+<url>
+<loc>/news/in-defense-of-basic-research-the-case-of-cell-division/</loc>
+<lastmod>2016-04-11T22:34:08-07:00</lastmod>
+</url>
+<url>
 <loc>/projects/hyperbaric-photobioreactor/</loc>
 <lastmod>2016-04-09T12:36:39-07:00</lastmod>
 </url>
@@ -29,6 +37,9 @@
 </url>
 <url>
 <loc>/join/</loc>
+</url>
+<url>
+<loc>/</loc>
 </url>
 <url>
 <loc>/location/</loc>

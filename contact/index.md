@@ -10,4 +10,4 @@ image:
   thumb:
 ads: false
 ---
-Post contact info here.
+If you have questions about current activites, membership, donations, or any content on this website, please contact us at **thewetlabinfo@gmail.com**.

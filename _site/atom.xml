@@ -7,7 +7,7 @@
   <subtitle>San Diego's Hackerspace for DIYBio.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2016-04-09T19:52:09-07:00</updated>
+  <updated>2016-04-12T00:39:18-07:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -15,6 +15,40 @@
     
   </author>
 
+  
+  <entry>
+    <title>Citizen Science Day</title>
+    <link href="/news/citizen-science-day/"/>
+    <updated>2016-04-12T00:02:50-07:00</updated>
+    <id>/news/citizen-science-day</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/CitizenScience.jpg&quot;&gt;&lt;br/&gt;
+      
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>In Defense of Basic Research - The Case of Cell Division</title>
+    <link href="/news/in-defense-of-basic-research-the-case-of-cell-division/"/>
+    <updated>2016-04-11T22:34:08-07:00</updated>
+    <id>/news/in-defense-of-basic-research-the-case-of-cell-division</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/GroenLecture.jpg&quot;&gt;&lt;br/&gt;
+      
+
+    </content>
+  </entry>
   
   <entry>
     <title>Hyperbaric Photobioreactor</title>
