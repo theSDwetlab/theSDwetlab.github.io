@@ -11,8 +11,3 @@ image:
 ads: false
 permalink: /
 ---
-<div class="tiles">
-{% for post in site.categories.news %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
