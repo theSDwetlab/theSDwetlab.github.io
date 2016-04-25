@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla/</loc>
+<lastmod>2016-04-24T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>/news/citizen-science-day/</loc>
 <lastmod>2016-04-12T00:02:50-07:00</lastmod>
 </url>
@@ -37,6 +41,9 @@
 </url>
 <url>
 <loc>/join/</loc>
+</url>
+<url>
+<loc>/news/</loc>
 </url>
 <url>
 <loc>/location/</loc>

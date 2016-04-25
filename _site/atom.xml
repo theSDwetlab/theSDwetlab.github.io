@@ -7,7 +7,7 @@
   <subtitle>San Diego's Hackerspace for DIYBio.</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2016-04-23T01:43:42-07:00</updated>
+  <updated>2016-04-24T18:55:32-07:00</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -15,6 +15,23 @@
     
   </author>
 
+  
+  <entry>
+    <title>The Iron Hypothesis - How Algae Growing Around Antarctica Can Affect the Climate in La Jolla</title>
+    <link href="/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla/"/>
+    <updated>2016-04-24T00:00:00-07:00</updated>
+    <id>/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/iron_hypothesis.jpg&quot;&gt;&lt;br/&gt;
+      
+
+    </content>
+  </entry>
   
   <entry>
     <title>Citizen Science Day</title>

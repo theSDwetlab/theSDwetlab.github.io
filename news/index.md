@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: Projects
-date: 2016-04-03T02:56:30-07:00
+title: 
+date: 2016-04-24T18:38:49-07:00
 modified:
 excerpt:
 image:
   feature:
   teaser:
-  thumb: 
+  thumb:
 ads: false
 ---
 <div class="tiles">
-{% for post in site.categories.projects %}
-	{% include post-grid.html %}
+{% for post in site.categories.news %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
