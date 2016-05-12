@@ -6,8 +6,8 @@ categories: projects
 excerpt:
 tags: []
 image:
-  feature: imobilizedalgae1.jpg
-  teaser: imobilizedalgae1.jpg
+  feature: imobilizedalgaeRS.jpg
+  teaser: imobilizedalgae400x250.jpg
   thumb:
 ads: false
 date: 2016-04-09T12:36:19-07:00
