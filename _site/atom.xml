@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>The Wet Lab</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.1</generator>
-    <icon>/apple-touch-icon-precomposed.png</icon>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.3.1</generator>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
   <subtitle>San Diego's Hackerspace for DIYBio.</subtitle>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/" rel="alternate" type="text/html"/>
-  <updated>2017-01-25T16:29:05-08:00</updated>
-  <id>/</id>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2017-01-25T16:32:03-08:00</updated>
+  <id>http://localhost:4000/</id>
   <author>
     <name></name>
-    <uri>/</uri>
+    <uri>http://localhost:4000/</uri>
     
   </author>
 
   
   <entry>
     <title>The Iron Hypothesis - How Algae Growing Around Antarctica Can Affect the Climate in La Jolla</title>
-    <link href="/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla/"/>
+    <link href="http://localhost:4000/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla/"/>
     <updated>2016-04-24T18:55:32-07:00</updated>
-    <id>/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla</id>
+    <id>http://localhost:4000/news/the-iron-hypothesis-how-algae-growing-around-antarctica-can-affect-the-climate-in-la-jolla</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/iron_hypothesis.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/iron_hypothesis.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -35,16 +35,16 @@
   
   <entry>
     <title>Citizen Science Day</title>
-    <link href="/news/citizen-science-day/"/>
+    <link href="http://localhost:4000/news/citizen-science-day/"/>
     <updated>2016-04-12T00:02:50-07:00</updated>
-    <id>/news/citizen-science-day</id>
+    <id>http://localhost:4000/news/citizen-science-day</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/CitizenScience.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/CitizenScience.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -52,16 +52,16 @@
   
   <entry>
     <title>In Defense of Basic Research - The Case of Cell Division</title>
-    <link href="/news/in-defense-of-basic-research-the-case-of-cell-division/"/>
+    <link href="http://localhost:4000/news/in-defense-of-basic-research-the-case-of-cell-division/"/>
     <updated>2016-04-11T22:34:08-07:00</updated>
-    <id>/news/in-defense-of-basic-research-the-case-of-cell-division</id>
+    <id>http://localhost:4000/news/in-defense-of-basic-research-the-case-of-cell-division</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/GroenLecture.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/GroenLecture.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -69,16 +69,16 @@
   
   <entry>
     <title>Hyperbaric Photobioreactor</title>
-    <link href="/projects/hyperbaric-photobioreactor/"/>
+    <link href="http://localhost:4000/projects/hyperbaric-photobioreactor/"/>
     <updated>2016-04-09T12:36:39-07:00</updated>
-    <id>/projects/hyperbaric-photobioreactor</id>
+    <id>http://localhost:4000/projects/hyperbaric-photobioreactor</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/photobioreactor1.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/photobioreactor1.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -86,16 +86,16 @@
   
   <entry>
     <title>Immobilized Algae in Hydrogel for Biotechechnology</title>
-    <link href="/projects/immobilized-algae-in-hydrogel-for-biotechechnology/"/>
+    <link href="http://localhost:4000/projects/immobilized-algae-in-hydrogel-for-biotechechnology/"/>
     <updated>2016-04-09T12:36:19-07:00</updated>
-    <id>/projects/immobilized-algae-in-hydrogel-for-biotechechnology</id>
+    <id>http://localhost:4000/projects/immobilized-algae-in-hydrogel-for-biotechechnology</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/imobilizedalgaeRS.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/imobilizedalgaeRS.jpg&quot;&gt;&lt;br/&gt;
       &lt;p&gt;Micro-organisms immobilized in a hydrogel matrix have a wide range of biotechnological applications including biosensors, wastewater filtration, and production of valuable compounds. For routine culture maintenance immobilization also offers advantages over traditional methods. We are exploring techniques for immobilization of microalgae and novel hydrogel geometries, including supported films and 3D printed structures.&lt;/p&gt;
 
     </content>
@@ -103,16 +103,16 @@
   
   <entry>
     <title>Slime-mold and Flatworm Neuroscience</title>
-    <link href="/projects/slime-mold-and-flatworm-neuroscience/"/>
+    <link href="http://localhost:4000/projects/slime-mold-and-flatworm-neuroscience/"/>
     <updated>2016-04-09T12:35:37-07:00</updated>
-    <id>/projects/slime-mold-and-flatworm-neuroscience</id>
+    <id>http://localhost:4000/projects/slime-mold-and-flatworm-neuroscience</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/slimemold.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/slimemold.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -120,16 +120,16 @@
   
   <entry>
     <title>Sequestration of Heavy Metals Using Biocalcification</title>
-    <link href="/projects/sequestration-of-heavy-metals-using-biocalcification/"/>
+    <link href="http://localhost:4000/projects/sequestration-of-heavy-metals-using-biocalcification/"/>
     <updated>2016-04-09T12:19:41-07:00</updated>
-    <id>/projects/sequestration-of-heavy-metals-using-biocalcification</id>
+    <id>http://localhost:4000/projects/sequestration-of-heavy-metals-using-biocalcification</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/biocalcification1.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/biocalcification1.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
@@ -137,35 +137,35 @@
   
   <entry>
     <title>Electrochemical Biosensors</title>
-    <link href="/projects/electrochemical-biosensors/"/>
+    <link href="http://localhost:4000/projects/electrochemical-biosensors/"/>
     <updated>2016-04-09T11:57:21-07:00</updated>
-    <id>/projects/electrochemical-biosensors</id>
+    <id>http://localhost:4000/projects/electrochemical-biosensors</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/biosensorAptamer1.png&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/biosensorAptamer1.png&quot;&gt;&lt;br/&gt;
       &lt;p&gt;This is a multi-disciplined project to build sensor electrodes capable of detecting lead in water and antibiotics in milk.&lt;/p&gt;
 
 &lt;p&gt;The project relies on well-established electrochemical sensing techniques like square-wave and cyclic voltammetry.  These techniques work by detecting changes in the electrical properties that occur when the analyte of interest comes in contact with the sensor electrode surface.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bs1_rs.png&quot; alt=&quot;bs1&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/bs1_rs.png&quot; alt=&quot;bs1&quot; /&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;a href=&quot;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023783&quot;&gt;Example of square wave voltammetry data&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We are engineering electrodes to specifically and sensitively detect analytes using simple chemical techniques like etching, drop-casting, and bonding recognition molecules to the electrode surface.&lt;/p&gt;
 
 &lt;p&gt;We are currently using the CheapStat potentiostat to make our measurements.  The CheapStat is an open source potentiostat created by Dr. Kevin Plaxco’s research group at UC Santa Barbara.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bs15_rs.png&quot; alt=&quot;bs15&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/bs15_rs.png&quot; alt=&quot;bs15&quot; /&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;a href=&quot;http://web.chem.ucsb.edu/~kwp/cheapstat/&quot;&gt;Cheapstat, an open source potentiostat&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Eventually, after we have demonstrated feasibility with our electrode designs, we hope to acquire (or build!) a more sensitive potentiostat.&lt;/p&gt;
 
 &lt;p&gt;We are experimenting with two types of electrodes.  The first is a screen-printed electrode from Pine Research.  These small integrated electrodes include the three electrodes required for most electrochemical methods: working, counter, and reference electrode components.  The working electrodes can be modified using drop casting.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bs2_rs.jpg&quot; alt=&quot;bs2&quot; /&gt;&lt;img src=&quot;/images/bs3_rs.jpg&quot; alt=&quot;bs3&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/bs2_rs.jpg&quot; alt=&quot;bs2&quot; /&gt;&lt;img src=&quot;http://localhost:4000/images/bs3_rs.jpg&quot; alt=&quot;bs3&quot; /&gt;&lt;br /&gt;
 &lt;strong&gt;&lt;a href=&quot;http://www.pineinst.com/echem/viewproduct.asp?ID=46564&quot;&gt;Pine Research Screen Printed Electrodes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;We are also developing our own custom 3-electrode systems.  We have several glassy carbon rods and gold foil for use as working electrodes. We are going to build our own Ag/AgCl reference electrodes, and we have some platinum wire for counter electrodes in these systems.&lt;/p&gt;
@@ -182,16 +182,16 @@
   
   <entry>
     <title>Genetic Engineering of E. Coli and Algae</title>
-    <link href="/projects/genetic-engineering-of-e-coli-and-algae/"/>
+    <link href="http://localhost:4000/projects/genetic-engineering-of-e-coli-and-algae/"/>
     <updated>2016-04-09T11:57:21-07:00</updated>
-    <id>/projects/genetic-engineering-of-e-coli-and-algae</id>
+    <id>http://localhost:4000/projects/genetic-engineering-of-e-coli-and-algae</id>
     <author>
       <name></name>
-      <uri>/</uri>
+      <uri>http://localhost:4000/</uri>
       
     </author>
     <content type="html">
-      &lt;img src=&quot;/images/sdwetlabpgloRS.jpg&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://localhost:4000/images/sdwetlabpgloRS.jpg&quot;&gt;&lt;br/&gt;
       
 
     </content>
